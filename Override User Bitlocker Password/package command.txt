@@ -1,0 +1,1 @@
+cmd.exe /c powershell.exe -ExecutionPolicy Bypass -NoProfile .\BitlockerPassReset.ps1
