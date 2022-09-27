@@ -9,6 +9,7 @@ I wrote this for my corp environment that only has a single type of BitLocker Ke
 If you run **manage-bde -protectors -get c:** it will ensure you have the proper keyprotectors for this to work. If you run that and don't see "4" or get complaints about the drive, this script probably isn't gonna work.  
 
 More info on KeyProtectors: https://learn.microsoft.com/en-us/windows/win32/secprov/getkeyprotectors-win32-encryptablevolume
+
 More info on Manage-BDE: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/manage-bde-protectors
 
 
